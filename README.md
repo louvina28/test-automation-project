@@ -1,5 +1,5 @@
-# wdio-restofe
-Webdriveio UI automation for restofe
+# wdio-webtrends
+Webdriveio UI automation for webtrends
 
 # Pre-requsites
 nodejs 
